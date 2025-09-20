@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "siteName": "KARIM EL HOUMAINI",
+    "tagline": "AI & Software Engineer",
+    "description": "AI & Software Engineer specialising in computer vision and industrial digitisation, based in Aix-les-Bains."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "experience": "Experience",
+    "projects": "Projects",
+    "skills": "Skills",
+    "achievements": "Achievements",
+    "resume": "Resume",
+    "contact": "Contact",
+    "playground": "Playground"
+  },
+  "hero": {
+    "eyebrow": "AI & Software Engineer",
+    "title": "Designing intelligent systems that accelerate human decisions",
+    "subtitle": "I craft AI-driven and full-stack products that transform medical and industrial quality assurance. With computer vision, cloud automation and thoughtful product thinking, I orchestrate trustworthy pipelines for critical teams.",
+    "ctaPrimary": "Download resume",
+    "ctaSecondary": "Email Karim",
+    "quickStats": [
+      {
+        "label": "QA automation",
+        "value": "-40%",
+        "detail": "manual work eliminated at GE Vernova"
+      },
+      {
+        "label": "AI models",
+        "value": "10+",
+        "detail": "medical vision solutions piloted"
+      },
+      {
+        "label": "Communities",
+        "value": "Talks & Challenges",
+        "detail": "IA Pau, National Endoscopy Congress"
+      }
+    ]
+  },
+  "home": {
+    "intro": {
+      "title": "Where applied AI meets thoughtful engineering",
+      "text": "I translate complex domain requirements into intelligent platforms: computer vision, cloud-native automation and crafted user experiences. My DNA: experiment fast, validate with users, industrialise with care.",
+      "actions": {
+        "projects": "Browse projects",
+        "contact": "Discuss your next challenge"
+      }
+    },
+    "experience": {
+      "title": "Flagship experience",
+      "items": [
+        {
+          "title": "QA digitisation at GE Vernova",
+          "description": "Full-stack applications orchestrating sensitive industrial validation with real-time dashboards.",
+          "metric": "40% less manual effort",
+          "stack": ["Java", "Spring Boot", "Angular", "Kubernetes"]
+        },
+        {
+          "title": "Computer vision for endoscopy",
+          "description": "Neural networks spotting anomalies in live video to support gastroenterologists.",
+          "metric": "Enhanced diagnostic support",
+          "stack": ["PyTorch", "Segmentation", "MLOps"]
+        },
+        {
+          "title": "Network architecture",
+          "description": "Complete mapping of TE Connectivity’s IT systems with security audits and resilience roadmap.",
+          "metric": "Optimised topology",
+          "stack": ["Networking", "Hardening", "Audits"]
+        }
+      ]
+    },
+    "skills": {
+      "title": "Trusted stack",
+      "subtitle": "Computer vision, cloud-native architectures, CI/CD pipelines: the building blocks to ship fast and safely.",
+      "items": [
+        {
+          "label": "AI & Computer Vision",
+          "value": "Expert"
+        },
+        {
+          "label": "Full-stack",
+          "value": "Advanced"
+        },
+        {
+          "label": "Data & Cloud",
+          "value": "Advanced"
+        },
+        {
+          "label": "DevOps",
+          "value": "Strong"
+        }
+      ]
+    },
+    "achievements": {
+      "title": "Highlights",
+      "items": [
+        {
+          "title": "3rd place IA Pau Data Challenge 2024",
+          "description": "Innovative AI solution for TotalEnergies combining vision and real-time modelling."
+        },
+        {
+          "title": "Talk at National Endoscopy Congress",
+          "description": "Showcasing AI assistance for endoscopy workflows."
+        },
+        {
+          "title": "Dual master journey",
+          "description": "Balancing research excellence with field-ready deployments."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Building with AI, quality and industry in mind?",
+      "description": "I’m ready to co-create the next platform blending computer vision, cloud automation and fluent user experiences.",
+      "primary": "Start a conversation",
+      "secondary": "View full resume"
+    }
+  },
+  "about": {
+    "title": "Bridging hospitals and smart factories",
+    "intro": "I’m KARIM EL HOUMAINI, based in Aix-les-Bains. My driver: putting AI to work for teams that must decide fast and accurately. From clinics to industrial plants, I turn messy data into reliable, understandable systems.",
+    "bio": [
+      "During my work-study at GE Vernova I automate equipment validation through full-stack apps blending vision, business rules and cloud orchestrations.",
+      "At the University Hospital of Tangier I trained deep models detecting endoscopic anomalies, co-designing workflows with gastroenterologists.",
+      "I’m pursuing a second Master’s in Information-System Architecture to strengthen strategic oversight: governance, software industrialisation and value delivery."
+    ],
+    "focus": {
+      "title": "Currently focusing on",
+      "items": [
+        "Interoperable industrial systems through secure microservices",
+        "Real-time vision applications for clinical quality",
+        "MLOps practices that derisk AI deployment",
+        "Bilingual and inclusive user experiences"
+      ]
+    },
+    "values": {
+      "title": "Values",
+      "items": [
+        {
+          "title": "Measurable impact",
+          "description": "Shared KPIs from day one to quantify value delivered."
+        },
+        {
+          "title": "Co-creation",
+          "description": "Aligning field teams, data experts and IT with a shared vocabulary."
+        },
+        {
+          "title": "Ethical AI",
+          "description": "Transparency, bias control and rigorous clinical validation."
+        }
+      ]
+    },
+    "timeline": {
+      "title": "Journey",
+      "education": [
+        {
+          "period": "2024 – 2026 (ongoing)",
+          "title": "Master: Information-System Architecture & Software Applications",
+          "place": "CESI Grenoble"
+        },
+        {
+          "period": "2022 – 2024",
+          "title": "Master: Computer & Mobile Systems (with honours)",
+          "place": "Abdelmalek Essaadi University"
+        },
+        {
+          "period": "2019 – 2022",
+          "title": "Bachelor: Computer Engineering",
+          "place": "Abdelmalek Essaadi University"
+        },
+        {
+          "period": "2019 – 2021",
+          "title": "DEUST: Maths/CS/Physics/Chemistry",
+          "place": "Abdelmalek Essaadi University"
+        },
+        {
+          "period": "2019",
+          "title": "Scientific Baccalaureate (Mathematics)",
+          "place": "Ibn Batouta High School"
+        }
+      ]
+    },
+    "photoAlt": "Creative portrait of Karim El Houmaini"
+  },
+  "experience": {
+    "title": "Experience",
+    "subtitle": "Where AI, software and industrialisation intersect.",
+    "timeline": [
+      {
+        "id": "ge-vernova",
+        "role": "Digitalisation Full-Stack Engineer",
+        "company": "GE Vernova",
+        "location": "Aix-les-Bains, France",
+        "period": "Sept 2024 – Present",
+        "impact": [
+          "Designed and deployed applications that automate quality-assurance workflows, cutting manual work by up to 40%.",
+          "Mapped processes with cross-functional partners to align regulatory constraints and UX.",
+          "Productionised containerised services (Spring Boot, Angular) on Kubernetes with enhanced observability."
+        ],
+        "metrics": ["40% manual tasks reduced"],
+        "stack": ["Java (Spring Boot)", "Angular", "Docker", "Kubernetes"]
+      },
+      {
+        "id": "chu-tanger",
+        "role": "AI & Computer Vision Intern",
+        "company": "University Hospital of Tangier",
+        "location": "Tangier, Morocco",
+        "period": "Mar 2024 – Aug 2024",
+        "impact": [
+          "Trained deep-learning models to detect anomalies in endoscopic images and videos.",
+          "Iterated with gastroenterologists to embed AI in clinical workflows.",
+          "Delivered a prototype integrated with hospital infrastructure."
+        ],
+        "metrics": ["Boosted diagnostic support"],
+        "stack": ["PyTorch", "Computer Vision", "MLOps"]
+      },
+      {
+        "id": "te-connectivity",
+        "role": "Networks & Systems Intern",
+        "company": "TE Connectivity",
+        "location": "Tangier, Morocco",
+        "period": "May 2022 – Jul 2022",
+        "impact": [
+          "Designed the full network architecture for an industrial site.",
+          "Audited servers and topology with hardening recommendations."
+        ],
+        "metrics": ["Optimised topology"],
+        "stack": ["Networking", "Security", "Virtualisation"]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Case studies blending applied AI, cloud software and business impact.",
+    "filters": {
+      "all": "All",
+      "ai": "AI",
+      "cv": "Computer Vision",
+      "cloud": "Cloud",
+      "devops": "DevOps"
+    },
+    "items": [
+      {
+        "id": "endoscopy",
+        "title": "Advanced image processing for endoscopic procedures",
+        "problem": "Reduce the review time of endoscopy videos while catching anomalies earlier.",
+        "approach": "Computer-vision pipeline with segmentation, anomaly detection and real-time clinician dashboard.",
+        "result": "Faster review cycles and higher clinical confidence thanks to interpretable visual alerts.",
+        "tags": ["AI", "Computer Vision", "Healthcare"],
+        "cover": "https://images.unsplash.com/photo-1581090464777-5e4f27d9c4e9"
+      },
+      {
+        "id": "fat-automation",
+        "title": "Factory Acceptance Test digitisation & automation",
+        "problem": "Make turbine FAT more reliable while eliminating paper-heavy, repetitive tasks.",
+        "approach": "Spring Boot + Angular suite capturing field data, auto-generating reports and running on Kubernetes.",
+        "result": "Productivity gains, stronger traceability and shared quality dashboards.",
+        "tags": ["Cloud", "DevOps", "Full-stack"],
+        "cover": "https://images.unsplash.com/photo-1580894906472-2cf953b4c71b"
+      },
+      {
+        "id": "health-monitoring",
+        "title": "Intelligent healthcare monitoring system",
+        "problem": "Anticipate vital anomalies in a connected-health context.",
+        "approach": "IoT sensors, cloud gateway and AI models for early detection with multi-device dashboard.",
+        "result": "Real-time notifications and concise insights for medical teams.",
+        "tags": ["AI", "Cloud", "IoT"],
+        "cover": "https://images.unsplash.com/photo-1587502537745-84affb19cbe1"
+      },
+      {
+        "id": "crisis-management",
+        "title": "Microservice-based web app for medical crisis management",
+        "problem": "Coordinate medical actors during critical events.",
+        "approach": "Microservice architecture, secure APIs and multilingual responsive interface.",
+        "result": "Smooth communication, exhaustive logging and rapid action triggering.",
+        "tags": ["Full-stack", "DevOps"],
+        "cover": "https://images.unsplash.com/photo-1527689368864-3a821dbccc34"
+      }
+    ],
+    "modal": {
+      "problem": "Problem",
+      "approach": "Approach",
+      "result": "Result",
+      "close": "Close"
+    }
+  },
+  "skills": {
+    "title": "Skills",
+    "subtitle": "A versatile toolbox to build deployable AI products.",
+    "domains": [
+      {
+        "id": "ai",
+        "title": "AI & Computer Vision",
+        "description": "Anomaly detection, segmentation, LLMs, Transformers, fine-tuning, transfer learning, PyTorch, TensorFlow.",
+        "proficiency": 95
+      },
+      {
+        "id": "fullstack",
+        "title": "Software / Full-stack",
+        "description": "Java (Spring Boot), Angular, Python, C++, domain-driven design.",
+        "proficiency": 88
+      },
+      {
+        "id": "cloud",
+        "title": "Data & Cloud",
+        "description": "PostgreSQL, Docker, Kubernetes, secure data pipelines.",
+        "proficiency": 86
+      },
+      {
+        "id": "devops",
+        "title": "DevOps",
+        "description": "CI/CD with Jenkins, Ansible, Kubernetes, monitoring and observability.",
+        "proficiency": 82
+      }
+    ]
+  },
+  "achievements": {
+    "title": "Achievements",
+    "subtitle": "Awards, talks and highlights.",
+    "items": [
+      {
+        "title": "3rd Place – IA Pau Data Challenge 2024",
+        "detail": "TotalEnergies challenge with an innovative AI solution.",
+        "type": "Award"
+      },
+      {
+        "title": "Talk – National Endoscopy Congress",
+        "detail": "Oral presentation on AI-assisted endoscopy.",
+        "type": "Talk"
+      },
+      {
+        "title": "Balanced research & industry profile",
+        "detail": "Mix of publications, prototypes and production deployments.",
+        "type": "Profile"
+      }
+    ]
+  },
+  "resume": {
+    "title": "Resume",
+    "intro": "Printable, full version of KARIM EL HOUMAINI’s CV.",
+    "download": "Download PDF",
+    "sections": {
+      "summary": {
+        "title": "Professional summary",
+        "content": "AI & Software Engineer with experience in medical-image analysis and industrial process digitalisation. While completing a work-study programme at GE Vernova, I build full-stack applications that automate quality-assurance workflows. I hold a Master’s (Computer & Mobile Systems, with honours) and I’m pursuing a second Master’s (Information-System Architecture & Software Applications, CESI Grenoble). I blend deep technical expertise with strategic vision from collaborating with clinicians and engineering teams."
+      },
+      "experience": "See the Experience section for detailed missions.",
+      "education": "See academic journey for the complete background.",
+      "languages": "French (professional), English (professional), Arabic (native).",
+      "interests": "AI competitions, personal projects, esport gaming, basketball."
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Let’s craft intelligent, human-centered solutions together.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send message",
+      "success": "Merci ! Your message has been sent.",
+      "error": "Unable to send right now. Please try again or email directly."
+    },
+    "details": {
+      "email": "Email",
+      "phone": "Phone",
+      "location": "Location",
+      "socials": "Social",
+      "calendar": "Book a slot"
+    },
+    "mapNote": "Interactive map placeholder.",
+    "ctaEmail": "Email me"
+  },
+  "playground": {
+    "title": "Experimental playground",
+    "subtitle": "Prototypes and explorations to test ideas quickly.",
+    "demos": [
+      {
+        "id": "edge-detect",
+        "title": "Edge detection shader",
+        "description": "A real-time Sobel filter inspired by endoscopy analysis pipelines."
+      },
+      {
+        "id": "matrix-rain",
+        "title": "Matrix rain",
+        "description": "Data-fall effect driven by interactive parameters."
+      }
+    ]
+  },
+  "commandPalette": {
+    "placeholder": "Search a page or section…",
+    "noResults": "No results",
+    "shortcuts": "Use ⌘K / Ctrl+K",
+    "sections": {
+      "pages": "Pages",
+      "sections": "Sections"
+    }
+  },
+  "footer": {
+    "crafted": "Designed & coded by Karim with a love for AI and design.",
+    "rights": "© {{year}} KARIM EL HOUMAINI. All rights reserved."
+  },
+  "common": {
+    "downloadCV": "Download resume",
+    "viewResume": "View resume",
+    "contact": "Contact",
+    "latest": "Latest updates",
+    "learnMore": "Learn more",
+    "close": "Close",
+    "bookACall": "Book a call",
+    "email": "elhoumaini.ka@gmail.com",
+    "phone": "+33 6 50 93 10 69",
+    "location": "Aix-les-Bains, France",
+    "calendly": "https://calendly.com/placeholder",
+    "socials": [
+      {
+        "id": "linkedin",
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/karim-el-houmaini"
+      },
+      {
+        "id": "github",
+        "label": "GitHub",
+        "url": "https://github.com/karim-placeholder"
+      },
+      {
+        "id": "twitter",
+        "label": "Twitter",
+        "url": "https://twitter.com/karim-placeholder"
+      }
+    ]
+  }
+}
