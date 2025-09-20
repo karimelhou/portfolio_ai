@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "siteName": "KARIM EL HOUMAINI",
+    "tagline": "Ingénieur IA & Logiciel",
+    "description": "Ingénieur IA & Logiciel spécialisé en vision par ordinateur et digitalisation industrielle, basé à Aix-les-Bains."
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "experience": "Expérience",
+    "projects": "Projets",
+    "skills": "Compétences",
+    "achievements": "Réalisations",
+    "resume": "CV",
+    "contact": "Contact",
+    "playground": "Playground"
+  },
+  "hero": {
+    "eyebrow": "Ingénieur IA & Logiciel",
+    "title": "Créer des systèmes intelligents qui accélèrent la décision humaine",
+    "subtitle": "Je conçois des produits IA et full-stack qui transforment l'assurance-qualité médicale et industrielle. Grâce à la vision par ordinateur, au cloud et à une approche produit pragmatique, j'orchestrer des pipelines fiables pour des équipes critiques.",
+    "ctaPrimary": "Télécharger le CV",
+    "ctaSecondary": "Écrire à Karim",
+    "quickStats": [
+      {
+        "label": "Automatisation QA",
+        "value": "-40 %",
+        "detail": "de tâches manuelles chez GE Vernova"
+      },
+      {
+        "label": "Modèles IA",
+        "value": "10+",
+        "detail": "solutions de vision médicale en production pilote"
+      },
+      {
+        "label": "Communautés",
+        "value": "Talks & Challenges",
+        "detail": "IA Pau, Congrès National d’Endoscopie"
+      }
+    ]
+  },
+  "home": {
+    "intro": {
+      "title": "Allier IA appliquée et ingénierie logicielle",
+      "text": "Je traduis des besoins métiers complexes en plateformes intelligentes : computer vision, automatisation cloud-native et expériences utilisateurs soignées. Mon ADN : expérimenter vite, valider avec les utilisateurs, industrialiser proprement.",
+      "actions": {
+        "projects": "Explorer les projets",
+        "contact": "Parler du prochain défi"
+      }
+    },
+    "experience": {
+      "title": "Expérience clé",
+      "items": [
+        {
+          "title": "Digitalisation QA chez GE Vernova",
+          "description": "Applications full-stack orchestrant la validation d’équipements industriels sensibles avec dashboards en temps réel.",
+          "metric": "40 % de tâches manuelles en moins",
+          "stack": ["Java", "Spring Boot", "Angular", "Kubernetes"]
+        },
+        {
+          "title": "Vision pour l’endoscopie",
+          "description": "Réseaux neuronaux détectant des anomalies en vidéo live pour soutenir les gastro-entérologues.",
+          "metric": "Support diagnostic renforcé",
+          "stack": ["PyTorch", "Segmentation", "MLOps"]
+        },
+        {
+          "title": "Architecture réseau",
+          "description": "Cartographie complète du SI de TE Connectivity avec audit sécurité et recommandations de résilience.",
+          "metric": "Topologie optimisée",
+          "stack": ["Networking", "Hardening", "Audits"]
+        }
+      ]
+    },
+    "skills": {
+      "title": "Stack de confiance",
+      "subtitle": "Vision par ordinateur, architectures cloud natives, pipelines CI/CD : des briques solides pour livrer vite et bien.",
+      "items": [
+        {
+          "label": "IA & Computer Vision",
+          "value": "Expert"
+        },
+        {
+          "label": "Full-stack",
+          "value": "Avancé"
+        },
+        {
+          "label": "Data & Cloud",
+          "value": "Avancé"
+        },
+        {
+          "label": "DevOps",
+          "value": "Solide"
+        }
+      ]
+    },
+    "achievements": {
+      "title": "Moments marquants",
+      "items": [
+        {
+          "title": "3e place IA Pau Data Challenge 2024",
+          "description": "Solution IA innovante pour TotalEnergies, combinant vision et modélisation temps réel."
+        },
+        {
+          "title": "Talk Congrès National d’Endoscopie",
+          "description": "Présentation des apports de l’IA pour l’endoscopie assistée."
+        },
+        {
+          "title": "Parcours double master",
+          "description": "Recherche & industrie : équilibre entre expertise scientifique et déploiements terrain."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Un défi mêlant IA, qualité et industrie ?",
+      "description": "Je suis prêt à co-créer la prochaine plateforme qui associe vision par ordinateur, automatisation cloud et expériences utilisateurs fluides.",
+      "primary": "Lancer une conversation",
+      "secondary": "Voir le CV complet"
+    }
+  },
+  "about": {
+    "title": "Tracer des ponts entre hôpitaux et usines intelligentes",
+    "intro": "Je m’appelle KARIM EL HOUMAINI, basé à Aix-les-Bains. Mon fil rouge : mettre l’IA au service des équipes qui doivent décider vite et juste. En clinique comme dans l’industrie, j’aime transformer des données hétérogènes en systèmes fiables et compréhensibles.",
+    "bio": [
+      "En alternance chez GE Vernova, j’automatise la validation d’équipements via des applications full-stack intégrant vision, règles métier et orchestrations cloud.",
+      "À l’hôpital universitaire de Tanger, j’ai entraîné des modèles profonds détectant des anomalies endoscopiques, en co-construction avec les gastro-entérologues.",
+      "Je poursuis un second Master en Architecture des SI pour renforcer ma vision globale : stratégie, gouvernance et industrialisation logicielle." 
+    ],
+    "focus": {
+      "title": "En ce moment je me concentre sur",
+      "items": [
+        "Interopérabilité des systèmes industriels avec des microservices sécurisés",
+        "Applications de vision temps réel pour la qualité clinique",
+        "Cadres MLOps fiabilisant le déploiement de modèles IA",
+        "Expériences utilisateurs bilingues et inclusives"
+      ]
+    },
+    "values": {
+      "title": "Valeurs",
+      "items": [
+        {
+          "title": "Impact mesurable",
+          "description": "Des KPI partagés dès le départ pour mesurer la valeur créée."
+        },
+        {
+          "title": "Co-construction",
+          "description": "Aligner équipes terrain, data et IT autour d’un langage commun."
+        },
+        {
+          "title": "Éthique IA",
+          "description": "Transparence, biais maîtrisés et validation clinique rigoureuse."
+        }
+      ]
+    },
+    "timeline": {
+      "title": "Parcours",
+      "education": [
+        {
+          "period": "2024 – 2026 (en cours)",
+          "title": "Master Architecture des SI & Applications Logiciels",
+          "place": "CESI Grenoble"
+        },
+        {
+          "period": "2022 – 2024",
+          "title": "Master Systèmes Informatiques & Mobiles (mention)",
+          "place": "Université Abdelmalek Essaadi"
+        },
+        {
+          "period": "2019 – 2022",
+          "title": "Licence Ingénierie Informatique",
+          "place": "Université Abdelmalek Essaadi"
+        },
+        {
+          "period": "2019 – 2021",
+          "title": "DEUST Maths/Info/Physique/Chimie",
+          "place": "Université Abdelmalek Essaadi"
+        },
+        {
+          "period": "2019",
+          "title": "Baccalauréat Scientifique (Mathématiques)",
+          "place": "Lycée Ibn Batouta"
+        }
+      ]
+    },
+    "photoAlt": "Portrait créatif de Karim El Houmaini"
+  },
+  "experience": {
+    "title": "Expérience",
+    "subtitle": "Des missions où l’IA, le logiciel et l’industrialisation se rencontrent.",
+    "timeline": [
+      {
+        "id": "ge-vernova",
+        "role": "Ingénieur Full-Stack Digitalisation",
+        "company": "GE Vernova",
+        "location": "Aix-les-Bains, France",
+        "period": "Septembre 2024 – Présent",
+        "impact": [
+          "Conception et déploiement d’applications automatisant les processus d’assurance-qualité, réduisant jusqu’à 40 % le travail manuel.",
+          "Cartographie des workflows avec des équipes pluridisciplinaires pour aligner besoins, contraintes réglementaires et UX.",
+          "Mise en production de services conteneurisés (Spring Boot, Angular) sur Kubernetes avec observabilité avancée."
+        ],
+        "metrics": ["40 % de tâches manuelles en moins"],
+        "stack": ["Java (Spring Boot)", "Angular", "Docker", "Kubernetes"]
+      },
+      {
+        "id": "chu-tanger",
+        "role": "Stagiaire IA & Vision par Ordinateur",
+        "company": "Centre Hospitalier Universitaire de Tanger",
+        "location": "Tanger, Maroc",
+        "period": "Mars 2024 – Août 2024",
+        "impact": [
+          "Entraînement de modèles profonds pour détecter des anomalies sur des images et vidéos endoscopiques.",
+          "Co-conception avec les gastro-entérologues pour intégrer l’IA dans les workflows cliniques.",
+          "Livraison d’un prototype intégrant l’IA à l’infrastructure hospitalière." 
+        ],
+        "metrics": ["Diagnostic assisté renforcé"],
+        "stack": ["PyTorch", "Vision par ordinateur", "MLOps"]
+      },
+      {
+        "id": "te-connectivity",
+        "role": "Stagiaire Réseaux & Systèmes",
+        "company": "TE Connectivity",
+        "location": "Tanger, Maroc",
+        "period": "Mai 2022 – Juillet 2022",
+        "impact": [
+          "Conception de l’architecture réseau complète pour un site industriel.",
+          "Audit des serveurs et topologies avec recommandations de durcissement." 
+        ],
+        "metrics": ["Topologie optimisée"],
+        "stack": ["Networking", "Sécurité", "Virtualisation"]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projets",
+    "subtitle": "Des études de cas mêlant IA appliquée, logiciels cloud et impact métier.",
+    "filters": {
+      "all": "Tous",
+      "ai": "IA",
+      "cv": "Vision",
+      "cloud": "Cloud",
+      "devops": "DevOps"
+    },
+    "items": [
+      {
+        "id": "endoscopy",
+        "title": "Traitement d’images avancé pour procédures endoscopiques",
+        "problem": "Réduire le temps d’analyse des vidéos endoscopiques et détecter précocement les anomalies.",
+        "approach": "Pipeline de vision par ordinateur avec segmentation, détection d’anomalies et tableau de bord temps réel pour les cliniciens.",
+        "result": "Réduction du temps de revue et meilleure confiance clinique grâce à des alertes visuelles interprétables.",
+        "tags": ["IA", "Vision", "Santé"],
+        "cover": "https://images.unsplash.com/photo-1581090464777-5e4f27d9c4e9"
+      },
+      {
+        "id": "fat-automation",
+        "title": "Digitalisation & automatisation des Factory Acceptance Tests",
+        "problem": "Fiabiliser les FAT sur des turbines tout en limitant le papier et les tâches répétitives.",
+        "approach": "Suite d’applications Spring Boot + Angular avec collecte de données terrain, génération automatique de rapports et intégration Kubernetes.",
+        "result": "Gains de productivité, traçabilité renforcée et dashboards de qualité partagés.",
+        "tags": ["Cloud", "DevOps", "Full-stack"],
+        "cover": "https://images.unsplash.com/photo-1580894906472-2cf953b4c71b"
+      },
+      {
+        "id": "health-monitoring",
+        "title": "Système intelligent de monitoring santé",
+        "problem": "Anticiper des anomalies vitales dans un contexte IoT médical.",
+        "approach": "Capteurs connectés, passerelle cloud et modèles IA pour la détection précoce, avec tableau de bord multi-supports.",
+        "result": "Notifications en temps réel et vues synthétiques pour les équipes médicales.",
+        "tags": ["IA", "Cloud", "IoT"],
+        "cover": "https://images.unsplash.com/photo-1587502537745-84affb19cbe1"
+      },
+      {
+        "id": "crisis-management",
+        "title": "Application web microservices pour gestion de crises médicales",
+        "problem": "Coordonner les acteurs médicaux lors d’événements critiques.",
+        "approach": "Architecture microservices, API sécurisées et interface responsive multilingue.",
+        "result": "Communication fluide, journalisation exhaustive et déclenchement rapide des actions.",
+        "tags": ["Full-stack", "DevOps"],
+        "cover": "https://images.unsplash.com/photo-1527689368864-3a821dbccc34"
+      }
+    ],
+    "modal": {
+      "problem": "Problème",
+      "approach": "Approche",
+      "result": "Résultat",
+      "close": "Fermer"
+    }
+  },
+  "skills": {
+    "title": "Compétences",
+    "subtitle": "Un socle polyvalent pour créer des produits IA déployables.",
+    "domains": [
+      {
+        "id": "ai",
+        "title": "IA & Computer Vision",
+        "description": "Anomaly detection, segmentation, LLMs, Transformers, fine-tuning, transfer learning, PyTorch, TensorFlow.",
+        "proficiency": 95
+      },
+      {
+        "id": "fullstack",
+        "title": "Logiciel / Full-stack",
+        "description": "Java (Spring Boot), Angular, Python, C++, architecture orientée domaine.",
+        "proficiency": 88
+      },
+      {
+        "id": "cloud",
+        "title": "Data & Cloud",
+        "description": "PostgreSQL, Docker, Kubernetes, pipelines de données sécurisés.",
+        "proficiency": 86
+      },
+      {
+        "id": "devops",
+        "title": "DevOps",
+        "description": "CI/CD avec Jenkins, Ansible, Kubernetes, monitoring et observabilité.",
+        "proficiency": 82
+      }
+    ]
+  },
+  "achievements": {
+    "title": "Réalisations",
+    "subtitle": "Reconnaissances, prix et prises de parole.",
+    "items": [
+      {
+        "title": "3e place IA Pau Data Challenge 2024",
+        "detail": "Compétition TotalEnergies autour d’une solution IA innovante.",
+        "type": "Prix"
+      },
+      {
+        "title": "Talk Congrès National d’Endoscopie",
+        "detail": "Présentation orale sur l’endoscopie assistée par IA.",
+        "type": "Talk"
+      },
+      {
+        "title": "Profil recherche & industrie",
+        "detail": "Équilibre entre publications, prototypes et déploiements opérationnels.",
+        "type": "Parcours"
+      }
+    ]
+  },
+  "resume": {
+    "title": "CV",
+    "intro": "Version complète imprimable du parcours de KARIM EL HOUMAINI.",
+    "download": "Télécharger le PDF",
+    "sections": {
+      "summary": {
+        "title": "Résumé professionnel",
+        "content": "Ingénieur IA & Logiciel spécialisé en analyse d’images médicales et digitalisation industrielle. En alternance chez GE Vernova, je conçois des applications full-stack qui automatisent les workflows d’assurance-qualité. Titulaire d’un Master (Systèmes Informatiques & Mobiles, mention) et en cours d’un second Master (Architecture des SI & Applications Logiciels, CESI Grenoble). Je combine expertise technique et vision stratégique acquises auprès de cliniciens et d’équipes d’ingénierie."
+      },
+      "experience": "Voir section Expérience pour le détail des missions.",
+      "education": "Voir parcours académique complet.",
+      "languages": "Français (professionnel), Anglais (professionnel), Arabe (natif).",
+      "interests": "Compétitions IA, projets personnels, esport, basketball."
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Co-créons des solutions intelligentes et humaines.",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Envoyer le message",
+      "success": "Merci ! Votre message est bien envoyé.",
+      "error": "Impossible d’envoyer pour le moment. Merci de réessayer ou d’écrire directement." 
+    },
+    "details": {
+      "email": "Email",
+      "phone": "Téléphone",
+      "location": "Localisation",
+      "socials": "Réseaux",
+      "calendar": "Réserver un créneau"
+    },
+    "mapNote": "Carte interactive à intégrer (placeholder).",
+    "ctaEmail": "M’écrire maintenant"
+  },
+  "playground": {
+    "title": "Playground expérimental",
+    "subtitle": "Prototypes et explorations pour tester des idées rapidement.",
+    "demos": [
+      {
+        "id": "edge-detect",
+        "title": "Shader de détection de contours",
+        "description": "Un filtre Sobel temps réel inspiré des pipelines d’analyse endoscopique."
+      },
+      {
+        "id": "matrix-rain",
+        "title": "Pluie de matrices",
+        "description": "Effet de données qui tombent, piloté par des paramètres interactifs."
+      }
+    ]
+  },
+  "commandPalette": {
+    "placeholder": "Chercher une page ou une section…",
+    "noResults": "Aucun résultat",
+    "shortcuts": "Utilisez ⌘K / Ctrl+K",
+    "sections": {
+      "pages": "Pages",
+      "sections": "Sections"
+    }
+  },
+  "footer": {
+    "crafted": "Designé & codé par Karim avec amour pour l’IA et le design.",
+    "rights": "© {{year}} KARIM EL HOUMAINI. Tous droits réservés."
+  },
+  "common": {
+    "downloadCV": "Télécharger le CV",
+    "viewResume": "Voir le CV",
+    "contact": "Contact",
+    "latest": "Dernières nouvelles",
+    "learnMore": "En savoir plus",
+    "close": "Fermer",
+    "bookACall": "Réserver un appel",
+    "email": "elhoumaini.ka@gmail.com",
+    "phone": "+33 6 50 93 10 69",
+    "location": "Aix-les-Bains, France",
+    "calendly": "https://calendly.com/placeholder",
+    "socials": [
+      {
+        "id": "linkedin",
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/karim-el-houmaini"
+      },
+      {
+        "id": "github",
+        "label": "GitHub",
+        "url": "https://github.com/karim-placeholder"
+      },
+      {
+        "id": "twitter",
+        "label": "Twitter",
+        "url": "https://twitter.com/karim-placeholder"
+      }
+    ]
+  }
+}
